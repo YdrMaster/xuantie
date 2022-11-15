@@ -14,11 +14,11 @@ This crate should be built under Rust 1.59.0 or later, or nightly version newer 
 
 We welcome contribution! Please send an issue or pull request if you are ready.
 
-## License 
+## License
 
 Mulan PSL v2
 
-```
+```plaintext
 Copyright (c) 2021 Luo Jia
 Rust-XuanTie-Support is licensed under Mulan PSL v2.
 You can use this software according to the terms and conditions of the Mulan PSL v2.
