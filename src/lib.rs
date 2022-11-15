@@ -70,3 +70,6 @@ pub mod asm;
 pub mod debug;
 pub mod paging;
 pub mod register;
+
+#[macro_use]
+pub mod e907;
